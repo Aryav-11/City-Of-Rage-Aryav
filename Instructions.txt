@@ -1,0 +1,14 @@
+<----!Not the original game, REMIX!---->
+<--- Orignally made by Raytomely--->
+City Of Rage Is The Remix Game Created By Aryav Chaudhary. 
+Do Not Try To Copy My Game Which I Wrote By Looking At The Original Game From The Pygame Site
+I Am Watching You.
+
+How to play The Game:
+To Move : use the arrows keys to move and the following keys
+ H : to attack
+ J : to jump
+ K : for special attack
+ P : pause the game
+
+Thanks For Playing!!
